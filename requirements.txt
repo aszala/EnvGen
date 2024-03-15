@@ -1,0 +1,19 @@
+accelerate==0.26.1
+diffusers== 0.25.0
+matplotlib==3.8.2
+openai==0.27.1
+opencv-python==4.9.0.80
+pandas==2.1.4
+plotly==5.18.0
+pygame==2.5.2
+python-dotenv==1.0.0
+sshkeyboard==2.3.1
+tqdm==  4.66.1
+numpy==1.23.5
+torch==2.0.1
+POT==0.9.1
+stable-baselines3==1.8.0
+ruamel.yaml==0.17.40
+PyYAML==6.0.1
+wandb==0.15.11
+imageio[ffmpeg]

@@ -1,0 +1,1 @@
+python ./environment_generation/generate_initial_environment.py ${@:1}

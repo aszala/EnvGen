@@ -1,0 +1,13 @@
+results/
+environment_generation/generated_environments/
+.env
+envgen/
+environment_visualizations/
+
+__pycache__/
+*.py[cod]
+*.egg-info
+/dist
+/*.png
+/*.mp4
+.DS_Store

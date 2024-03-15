@@ -1,0 +1,1 @@
+python ./environment_generation/update_environments.py ${@:1}

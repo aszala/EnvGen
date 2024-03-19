@@ -2,7 +2,7 @@
 Official Code Repository for **EnvGen**: Generating and Adapting Environments via LLMs for Training Embodied Agents
 
 
-[![arXiv](https://img.shields.io/badge/Arxiv-EnvGen-orange)]() [![ProjectPage](https://img.shields.io/badge/ProjectPage-EnvGen-green)](https://envgen-llm.github.io/)
+[![arXiv](https://img.shields.io/badge/arXiv-EnvGen-orange)](https://arxiv.org/abs/2403.12014) [![ProjectPage](https://img.shields.io/badge/ProjectPage-EnvGen-green)](https://envgen-llm.github.io/)
 
 
 
@@ -159,7 +159,7 @@ This will produce `environment_generation/generated_environments/dummy_experimen
         title   = {EnvGen: Generating and Adapting Environments via LLMs for Training Embodied Agents},
         year    = {2024},
         url     = {https://envgen-llm.github.io/},
-        journal = {arXiv preprint arXiv: Arxiv-}
+        journal = {arXiv preprint arXiv:2403.12014}
 }
 ```
 

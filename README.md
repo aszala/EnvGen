@@ -155,11 +155,10 @@ This will produce `environment_generation/generated_environments/dummy_experimen
 # Citation
 ```bibtex
 @article{Zala2024EnvGen,
-        author  = {Abhay Zala* and Jaemin Cho* and Han Lin and Jaehong Yoon and Mohit Bansal},
-        title   = {EnvGen: Generating and Adapting Environments via LLMs for Training Embodied Agents},
-        year    = {2024},
-        url     = {https://envgen-llm.github.io/},
-        journal = {arXiv preprint arXiv:2403.12014}
+        author    = {Abhay Zala* and Jaemin Cho* and Han Lin and Jaehong Yoon and Mohit Bansal},
+        title     = {EnvGen: Generating and Adapting Environments via LLMs for Training Embodied Agents},
+        year      = {2024},
+        booktitle = {COLM},
 }
 ```
 
